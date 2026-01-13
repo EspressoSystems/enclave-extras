@@ -1,6 +1,6 @@
 module github.com/distributed-lab/enclave-extras/nitro-attestation-cli
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.36.6
@@ -23,7 +23,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.23.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.27.4 // indirect
 	github.com/aws/smithy-go v1.22.4 // indirect
-	github.com/ethereum/go-ethereum v1.16.1 // indirect
+	github.com/ethereum/go-ethereum v1.16.8 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/hf/nsm v0.0.0-20220930140112-cd181bd646b9 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
